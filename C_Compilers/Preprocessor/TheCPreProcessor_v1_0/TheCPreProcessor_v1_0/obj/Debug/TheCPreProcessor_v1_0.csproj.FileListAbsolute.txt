@@ -1,0 +1,7 @@
+C:\Users\EMMANUEL\source\repos\TheCPreProcessor_v1_0\TheCPreProcessor_v1_0\obj\Debug\TheCPreProcessor_v1_0.csprojAssemblyReference.cache
+C:\Users\EMMANUEL\source\repos\TheCPreProcessor_v1_0\TheCPreProcessor_v1_0\obj\Debug\TheCPreProcessor_v1_0.csproj.CoreCompileInputs.cache
+C:\Users\EMMANUEL\source\repos\TheCPreProcessor_v1_0\TheCPreProcessor_v1_0\bin\Debug\TheCPreProcessor_v1_0.exe.config
+C:\Users\EMMANUEL\source\repos\TheCPreProcessor_v1_0\TheCPreProcessor_v1_0\bin\Debug\TheCPreProcessor_v1_0.exe
+C:\Users\EMMANUEL\source\repos\TheCPreProcessor_v1_0\TheCPreProcessor_v1_0\bin\Debug\TheCPreProcessor_v1_0.pdb
+C:\Users\EMMANUEL\source\repos\TheCPreProcessor_v1_0\TheCPreProcessor_v1_0\obj\Debug\TheCPreProcessor_v1_0.exe
+C:\Users\EMMANUEL\source\repos\TheCPreProcessor_v1_0\TheCPreProcessor_v1_0\obj\Debug\TheCPreProcessor_v1_0.pdb
