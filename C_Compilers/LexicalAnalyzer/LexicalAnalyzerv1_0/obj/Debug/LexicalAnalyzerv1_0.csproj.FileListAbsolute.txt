@@ -1,0 +1,14 @@
+C:\Users\EMMANUEL\source\repos\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\bin\Debug\LexicalAnalyzerv1_0.exe.config
+C:\Users\EMMANUEL\source\repos\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\bin\Debug\LexicalAnalyzerv1_0.exe
+C:\Users\EMMANUEL\source\repos\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\bin\Debug\LexicalAnalyzerv1_0.pdb
+C:\Users\EMMANUEL\source\repos\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\obj\Debug\LexicalAnalyzerv1_0.csprojAssemblyReference.cache
+C:\Users\EMMANUEL\source\repos\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\obj\Debug\LexicalAnalyzerv1_0.csproj.CoreCompileInputs.cache
+C:\Users\EMMANUEL\source\repos\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\obj\Debug\LexicalAnalyzerv1_0.exe
+C:\Users\EMMANUEL\source\repos\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\obj\Debug\LexicalAnalyzerv1_0.pdb
+C:\Users\EMMANUEL\Academic\CIATEQ\Master degree\TRIMESTER II\Compilers\Homeworks\Lexical analyzer\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\bin\Debug\LexicalAnalyzerv1_0.exe.config
+C:\Users\EMMANUEL\Academic\CIATEQ\Master degree\TRIMESTER II\Compilers\Homeworks\Lexical analyzer\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\bin\Debug\LexicalAnalyzerv1_0.exe
+C:\Users\EMMANUEL\Academic\CIATEQ\Master degree\TRIMESTER II\Compilers\Homeworks\Lexical analyzer\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\bin\Debug\LexicalAnalyzerv1_0.pdb
+C:\Users\EMMANUEL\Academic\CIATEQ\Master degree\TRIMESTER II\Compilers\Homeworks\Lexical analyzer\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\obj\Debug\LexicalAnalyzerv1_0.csprojAssemblyReference.cache
+C:\Users\EMMANUEL\Academic\CIATEQ\Master degree\TRIMESTER II\Compilers\Homeworks\Lexical analyzer\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\obj\Debug\LexicalAnalyzerv1_0.csproj.CoreCompileInputs.cache
+C:\Users\EMMANUEL\Academic\CIATEQ\Master degree\TRIMESTER II\Compilers\Homeworks\Lexical analyzer\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\obj\Debug\LexicalAnalyzerv1_0.exe
+C:\Users\EMMANUEL\Academic\CIATEQ\Master degree\TRIMESTER II\Compilers\Homeworks\Lexical analyzer\LexicalAnalyzerv1_0\LexicalAnalyzerv1_0\obj\Debug\LexicalAnalyzerv1_0.pdb
